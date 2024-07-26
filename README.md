@@ -13,11 +13,13 @@ A) **ESRGAN TEAM Jupyter Notebook**: Contains raw datasets and Python code for d
 
 B) **PowerPoint Presentation**: Contains the PowerPoint presentation slides of the ESRGAN team.
   This folder contains:
+  
   i) **"ESRGAN TEAM'S PRESENTATION(1).pdf"**: A PDF File of the team's project presentation slides.
 
 
 C) **Project Research Paper**: contains the project research document.
   This folder contains:
+  
   i) **"ESRGAN TEAM'S RESEARCH PAPER.pdf"**: This PDF file contains the documentation of the entire project.
 
 
@@ -26,10 +28,12 @@ D) **RAG Application**: contains the code and document for the implementation of
   
   i) **Education Data PDF Document**: This folder contains the PDF document for the RAG system:
     This folder contains:
+    
     1) **'corrected_dataset_abriged_PDF.pdf'**: The PDF document that provides context to the LLM
     
  ii) **Requirements**: 
    This folder contains:
+   
    1) **'requirements.txt'**: This contains the Python dependencies for creating and running the RAG Application.
 
 iii) **'main.py'**: This Python file contains the code for the implementation of the RAG Application and the implementation of the Streamlit user interface.

@@ -26,14 +26,14 @@ C) **Project Research Paper**: contains the project research document.
 D) **RAG Application**: contains the code and document for the implementation of RAG in the project. RAG is an AI concept, that involves providing an AI large context in the form of a document to enable it to accurately perform tasks.
   This folder contains:
   
-  i) **Education Data PDF Document**: This folder contains the PDF document for the RAG system:
-    This folder contains:
-    
-    1) **'corrected_dataset_abriged_PDF.pdf'**: The PDF document that provides context to the LLM
+  i) **Education Data PDF Document**: This folder contains the PDF document for the RAG system.
+  This folder contains:  
+  
+  1) **corrected_dataset_abridged pdf.pdf**: The PDF document that provides context to the LLM.
     
  ii) **Requirements**: 
    This folder contains:
    
-   1) **'requirements.txt'**: This contains the Python dependencies for creating and running the RAG Application.
+  1) **'requirements.txt'**: This contains the Python dependencies for creating and running the RAG Application.
 
 iii) **'main.py'**: This Python file contains the code for the implementation of the RAG Application and the implementation of the Streamlit user interface.
